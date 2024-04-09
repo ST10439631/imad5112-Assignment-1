@@ -33,4 +33,9 @@ Benefits of the application:
 3. Convinience: By making historical material widely accessible onmobile devices, user's can even promote learning outside traditional classroom settings
 4. Flexibility: To reach a larger audience, the application can be developed in the future to incorporate more features and historical data.
 
-In conclusion, The mobile application has been developed successfully and it reached Sarah's goal of developing an application that will be intresting for her history class.I have created a learning experience that blends history with interactive mobile technologies by using technology. The Mobile Application's maintability and stability are guranteed by the use of GitHub Actions for automated testing and version control.
+
+In conclusion, The mobile application has been developed successfully and it reached Sarah's goal of developing an application that will be intresting for her history class.I have created a learning experience that blends history with interactive mobile technologies by using technology. The Mobile Application's maintability and stability are guranteed by the use of GitHub Actions for automated testing and version control. The Program has the potential to inspire young minds and enhance a geater appreciation for history due to its user-friendly interface and instructive information.
+
+Future Enhancements:
+More Historical figures: Increase the number of historical figures from a variety of fields.
+
